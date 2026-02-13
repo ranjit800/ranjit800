@@ -6,7 +6,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ranjit-jana-242480231/) 
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+Languages & Core : JavaScript (ES6+), TypeScript, Java, Python, HTML5, CSS3, Data Structures & Algorithms
+Frontend : React.js, Next.js, Redux, Zustand, Tailwind CSS, Framer Motion, GSAP, Three.js, AR.js
+Backend & Cloud : Node.js, Express.js, Django, PostgreSQL, MongoDB, AWS (EC2, ECS, Lambda, Amplify, S3), Docker
+Tools : Git, Postman, Mapbox GL, Figma, Cursor AI
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ranjit800&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ranjit800&theme=dark&hide_border=false)<br/>
